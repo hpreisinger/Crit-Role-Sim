@@ -1,0 +1,22 @@
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.deps.json
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.runtimeconfig.json
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.dll
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.pdb
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.csprojAssemblyReference.cache
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.dll
+C:\Users\hanna\OneDrive\Desktop\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.pdb
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.deps.json
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.runtimeconfig.json
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.dll
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\bin\Debug\netcoreapp2.2\CriticalRoleSimulator.pdb
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.csprojAssemblyReference.cache
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.dll
+C:\Users\hanna\OneDrive\Desktop\CODING DOJO\CriticalRoleSimulator\obj\Debug\netcoreapp2.2\CriticalRoleSimulator.pdb
